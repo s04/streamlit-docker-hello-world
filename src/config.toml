@@ -1,0 +1,12 @@
+[server]
+headless = true
+
+[browser]
+# Whether to send usage statistics to Streamlit.
+# Default: true
+gatherUsageStats = false
+
+[theme]
+# The preset Streamlit theme that your custom theme inherits from.
+# One of "light" or "dark".
+base = light
